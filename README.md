@@ -1,9 +1,9 @@
 ### Hello World 🤘🏼
 
-Eu estudo para me tornar Desenvolvedor Backend
+Eu estudo para me tornar Desenvolvedor Backend👨🏻‍💻 
 
 
-- 👨🏻‍💻 Apredendo Java com o Professor Nelio Alves
+Apredendo Java com o Professor Nelio Alves ☕
 
 
 ### Onde me encontrar?
