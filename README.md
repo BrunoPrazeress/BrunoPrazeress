@@ -1,9 +1,9 @@
 ### Hello World 🤘🏼
 
 Eu estudo para me tornar Desenvolvedor Backend👨🏻‍💻<br> 
-Apredendo Java com o Professor Nelio Alves ☕
+Aprendendo Java com o Professor Nelio Alves ☕
 
-
+  <img align="right" alt="Coding" width="400" src="https://ardas-it.com/uploads/images/blogs/giph.gif">
 
 ### Tecnologias que eu estudo:
 <div style="display: inline_block">
@@ -17,6 +17,9 @@ Apredendo Java com o Professor Nelio Alves ☕
 
  <a href = "mailto:brunodsprazeres@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/bruno-prazeres" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+  
+
+ 
  
  
  
