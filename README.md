@@ -1,17 +1,17 @@
 ### Hello World 🤘🏼
 
-Eu estudo para me tornar Desenvolvedor Backend👨🏻‍💻 
-
+Eu estudo para me tornar Desenvolvedor Backend👨🏻‍💻<br> 
 Apredendo Java com o Professor Nelio Alves ☕
+
 
 
 ### Tecnologias que eu estudo:
 <div style="display: inline_block">
   <img align="center" alt="Bruno-Java" height="30" width="40" src="https://devicons.railway.app/i/java.svg">
   <img align="center" alt="Bruno-Git" height="30" width="40" src="https://devicons.railway.app/i/git.svg">
-  <img align="center" alt="Java-Linux" height="30" width="40" src="https://devicons.railway.app/i/tux.svg">
+  <img align="center" alt="Java-Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
   </div>
-
+<br>
 
 ### Onde me encontrar?
 
