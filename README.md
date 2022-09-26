@@ -1,7 +1,7 @@
 ### Hello World 🤘🏼
 
 Eu estudo para me tornar Desenvolvedor Backend👨🏻‍💻<br> 
-Aprendendo NodeJs com a Alura 
+Estudando pela Rocketseat 🚀
 
 ### Tecnologias que eu estudo:
 <div style="display: inline_block">
