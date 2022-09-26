@@ -1,6 +1,6 @@
 ### Hello World 🤘🏼
 
-Eu estudo para me tornar Desenvolvedor Backend👨🏻‍💻<br> 
+Eu estudo para me tornar Desenvolvedor Full Stack👨🏻‍💻<br> 
 Estudando pela Rocketseat 🚀
 
 ### Tecnologias que eu estudo:
